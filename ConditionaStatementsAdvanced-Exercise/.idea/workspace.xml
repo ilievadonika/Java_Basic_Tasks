@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a33d4248-1747-4c26-92d1-54ef8a882cad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGz7Dh0HzhB94CMQaxJNcbuXkm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Marin">
+    <configuration name="FishingBoat_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FishingBoat_05" />
+      <module name="ConditionaStatementsAdvanced-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelRoom_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HotelRoom_08" />
+      <module name="ConditionaStatementsAdvanced-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Marin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marin" />
+      <module name="ConditionaStatementsAdvanced-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnTimeForTheExam_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnTimeForTheExam_09" />
+      <module name="ConditionaStatementsAdvanced-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volleyball_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Volleyball_10" />
+      <module name="ConditionaStatementsAdvanced-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Marin" />
+        <item itemvalue="Application.FishingBoat_05" />
+        <item itemvalue="Application.Volleyball_10" />
+        <item itemvalue="Application.OnTimeForTheExam_09" />
+        <item itemvalue="Application.HotelRoom_08" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33d4248-1747-4c26-92d1-54ef8a882cad" name="Default Changelist" comment="" />
+      <created>1586376548185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586376548185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586722095555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586722095555" />
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom" timestamp="1588756940822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588756940822" />
+    <state width="1323" height="217" key="GridCell.Tab.0.center" timestamp="1588756940791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588756940791" />
+    <state width="1323" height="217" key="GridCell.Tab.0.left" timestamp="1588756940775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588756940775" />
+    <state width="1323" height="217" key="GridCell.Tab.0.right" timestamp="1588756940822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588756940822" />
+    <state width="1323" height="217" key="GridCell.Tab.1.bottom" timestamp="1588756940890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588756940890" />
+    <state width="1323" height="217" key="GridCell.Tab.1.center" timestamp="1588756940866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588756940866" />
+    <state width="1323" height="217" key="GridCell.Tab.1.left" timestamp="1588756940866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588756940866" />
+    <state width="1323" height="217" key="GridCell.Tab.1.right" timestamp="1588756940890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588756940890" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587029019582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587029019582" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587029056965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587029056965" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586637992919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586637992919" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HotelRoom_08.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OnTimeForTheExam_09.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Marin.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Volleyball_10.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d23b8658-542d-4cb7-8c46-946c19ec6111" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTslupZLBHRCXFQS0gmSUm687D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Task1GreetingByName">
+    <configuration name="InchesToSantimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesToSantimeters" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1GreetingByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1GreetingByName" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4ProjectsCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4ProjectsCreation" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5PetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task5PetShop" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6YeardGreening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6YeardGreening" />
+      <module name="SimpleOperationsAndCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InchesToSantimeters" />
+      <item itemvalue="Application.Task4ProjectsCreation" />
+      <item itemvalue="Application.Task5PetShop" />
+      <item itemvalue="Application.Task6YeardGreening" />
+      <item itemvalue="Application.Task1GreetingByName" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1GreetingByName" />
+        <item itemvalue="Application.Task6YeardGreening" />
+        <item itemvalue="Application.Task5PetShop" />
+        <item itemvalue="Application.Task4ProjectsCreation" />
+        <item itemvalue="Application.InchesToSantimeters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23b8658-542d-4cb7-8c46-946c19ec6111" name="Default Changelist" comment="" />
+      <created>1584874572203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584874572203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1586084002792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586084002792" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1586084002792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586084002792" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1586084002792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586084002792" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1586084002792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586084002792" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585417659385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585417659385" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585423538621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585423538621" />
+  </component>
+</project>
